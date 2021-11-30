@@ -68,4 +68,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-log4j2'
     compile('commons-lang:commons-lang:2.6')
     compile group: 'org.bgee.log4jdbc-log4j2', name: 'log4jdbc-log4j2-jdbc4.1', version: '1.16'
+
 }
+
+test
