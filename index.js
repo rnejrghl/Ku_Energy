@@ -14,7 +14,7 @@ app.get("/hello", (req, res) => {
 
 app.get("/test", (req, res) => {
   res.json({
-    message: "kukuku",
+    message: "kukuku11111",
   });
 });
 
